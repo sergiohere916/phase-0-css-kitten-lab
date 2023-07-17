@@ -37,4 +37,5 @@ img {
 
 #basket, #ball {
   display: inline;
+  color: red;
 }
